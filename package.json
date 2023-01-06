@@ -9,8 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "airtable": "^0.11.6",
+    "bootstrap": "^5.2.3",
     "next": "13.1.1",
     "react": "18.2.0",
+    "react-bootstrap": "^2.7.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
